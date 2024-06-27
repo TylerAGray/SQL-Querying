@@ -1,8 +1,6 @@
 # SQL-Querying
 ### **Setup**
 
-[Download exercise starter code](https://curric.springboard.com/software-engineering-career-track/default/exercises/sql-querying.zip)
-
 To seed your database, run the following command from within the starter code directory.
 
 ```bash
